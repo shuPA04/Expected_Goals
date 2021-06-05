@@ -4,4 +4,4 @@ Expected goals is a tactical metric that calculates the probablity of shots bein
 # Data Source
 Data used to build a model is from Statsbomb (https://statsbomb.com/) 
 
-<img src= "Images/Statsbomb_Logo.png">
+<img src= "Images/Statsbomb_Logo.jpg" height=100>
